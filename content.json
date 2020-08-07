@@ -1,1 +1,14 @@
-{}
+{
+  "custom-list": [
+    {
+      "custom-list-item": "moretext"
+    },
+    {
+      "custom-list-item": "Some text"
+    }
+  ],
+  "custom-object": {
+    "custom-text": "sdsdf text",
+    "custom-line": "ssssssssss line"
+  }
+}
